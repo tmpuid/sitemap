@@ -129,7 +129,7 @@ function allPosts() {
 // This function resets the filter
 // and displays all posts
 
-   postFilter = '♂冯绍峰';
+   postFilter = '';
    displayToc(postFilter);
 } // end allPosts
 
