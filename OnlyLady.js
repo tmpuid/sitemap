@@ -18,7 +18,7 @@
    var sortBy = "datenewest";         // default value for sorting ToC
    var tocLoaded = false;           // true if feed is read and ToC can be displayed
    var numChars = 250;              // number of characters in post summary
-   var postFilter = 'OnlyLady';             // default filter value
+   var postFilter = '♂冯绍峰';             // default filter value
    var tocdiv = document.getElementById("bp_toc"); //the toc container
    var totalEntires =0; //Entries grabbed till now
    var totalPosts =0; //Total number of posts in the blog.
